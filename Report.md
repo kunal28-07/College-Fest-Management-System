@@ -1,4 +1,4 @@
-# Fest-Management-website-and-database-management-system
+# College-Fest-Management-System
 It is a complete college fest website design along with management of database system of all participants and events.
 
 
